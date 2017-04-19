@@ -1,0 +1,40 @@
+.footer{
+	background:url(../Images/back_glossy.png);
+	width:990px;
+	border:#CCC solid 1px;
+	height:100px;
+	overflow:auto;
+	margin-left:179px;
+	border-radius:10px;
+        margin-top:10px;
+    
+	
+}
+.hinhft{
+    padding-left: 120px;
+    margin-top: 10px;
+    width: 160px;
+    height: 60px;
+    border: #00ff00 solid 0px;
+}.congty{
+    padding-top: 5px;
+    width: auto;
+   
+    padding-left: 10px;
+}
+.tongttft1{
+    width: 360px;
+      border: #00ff00 solid 0px;
+       height: auto;
+       margin-left: 600px;
+}
+.diachift{
+    width: 560px;
+      border: #00ff00 solid 0px;
+       height: 90px;
+       margin-left: 0px;
+       float: left;
+       padding-top: 10px;
+       padding-left: 10px;
+       border-right:#CCC dotted 1px;
+}

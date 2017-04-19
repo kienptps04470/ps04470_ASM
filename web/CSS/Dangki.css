@@ -1,0 +1,32 @@
+
+
+body{
+	background:url(../Images/51.jpg);
+}
+.nutbt{
+	margin-top:15px;
+	margin-left:135px;
+	height: 50px;
+	width: 100px;
+		border: #09F solid 0px
+}
+.tongdk{
+	margin-top: 50px;
+	margin-left:490px;
+width:310px;
+height:320px;
+border:#09F solid 2px;
+border-radius:5px; 
+}
+#idd{
+	height:22px;
+
+border-radius:5px; 
+
+}
+.dktxt{
+margin-left:90px;
+color:#F00;
+
+	
+}

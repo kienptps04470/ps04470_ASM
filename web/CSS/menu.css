@@ -1,0 +1,165 @@
+body{
+	background:url(../Images/51.jpg);
+}
+.tong{
+	width:1000px;
+	height:auto;
+	margin: 0 auto;
+	border:#000 solid 0px;
+	margin-top:5px;
+        margin-left: 175px;
+}
+.header{
+	width:998px;
+       
+}
+.menu{
+	width:99.8%;
+	height:31px;
+	background-color:#000;
+  
+       
+	
+}
+.menu ul{
+	margin:0px;
+	padding:0px;
+    
+	
+}
+.menu ul li{
+	display:inline;
+	text-align:center;
+	line-height:30px;
+	width:159.8px;
+	border-right:#666 solid 1px;
+	float:left;	
+	position:relative;
+        border-radius: 5px;
+       
+     
+        
+	
+}
+.menu ul a{
+	color:#FFF;
+	font-size:18px;
+	font-weight:bold;
+	text-decoration:none;
+     
+	
+}
+
+
+
+
+
+
+
+
+
+.menu ul li ul{
+	display:none;
+	
+}
+
+.menu ul li:hover ul{
+	display:block;
+	position:absolute;
+	
+}
+
+.menu ul li ul li{
+	background:#6CF;
+	border-left:#FFF dotted 1px;
+	border-bottom:#FFF dotted 1px;
+	
+	
+}
+.menu ul li:hover{
+	background:#0F3;
+	transition:0.7s;
+}
+
+
+
+
+
+
+
+.hinh{
+	width:100%;
+	text-align:center;
+	margin-top:15px;
+	
+}
+.tong2{
+	width:20%;
+	float:left;
+}
+
+
+
+.logo{
+	float:left;
+}
+
+.hinhbn{
+	margin-left:176px;
+	width:992px;
+	height:100px;
+	background:url(../Images/logos.JPG);
+       margin-top: 10px;
+	
+}
+.dn{
+  width:100px;
+	height:35px;  
+    border:#000 solid 0px;
+  margin-left:0px;
+   float: left;
+ margin-top: 35px;
+    
+  
+}
+.tenkhachhang{
+  width:60%;
+height:50%;  
+    border:#000 solid 0px;  
+    margin-left: 10px;
+   float: left;
+   margin-top: 5px;
+  
+
+  
+}
+.tenkhachhang p{
+	 font-size: 25px;
+  background-image: -webkit-linear-gradient(left, #ff0000, #ff7f00, #ffff00, #00ff00, #00ffff, #0000ff, #8b00ff);
+    background-image: -moz-linear-gradient(left, #ff0000, #ff7f00, #ffff00, #00ff00, #00ffff, #0000ff, #8b00ff);
+    background-image: -ms-linear-gradient(left, #ff0000, #ff7f00, #ffff00, #00ff00, #00ffff, #0000ff, #8b00ff);
+    background-image:-o-linear-gradient(left, #ff0000, #ff7f00, #ffff00, #00ff00, #00ffff, #0000ff, #8b00ff);
+    background-image:linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #00ffff, #0000ff, #8b00ff);
+  
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    padding-top: 10px;
+   text-shadow: 0px 0px 15px #FF0;
+}
+.tong3s{
+     width:400px;
+height:75px;  
+    border:#000 solid 0px; 
+   margin-left:580px;
+  padding-top: 25px;
+    
+   
+
+}
+.lgout{
+    width:10%;
+height:40%;   
+   border:#000 solid 0px;   
+   margin-left: 350px;
+   margin-top: 35px;
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Oct 13, 2016 12:38:14 AM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="identies.Khachhang" table="Khachhang" schema="dbo" catalog="PS04470_ASM_DTDM" optimistic-lock="version">
+        <id name="taikhoan" type="string">
+            <column name="Taikhoan" length="40" />
+            <generator class="assigned" />
+        </id>
+        <property name="matkhau" type="string">
+            <column name="Matkhau" length="40" />
+        </property>
+        <property name="hoten" type="string">
+            <column name="Hoten" length="40" />
+        </property>
+        <property name="email" type="string">
+            <column name="Email" length="40" />
+        </property>
+        <property name="role" type="string">
+            <column name="Role" length="2" />
+        </property>
+    </class>
+</hibernate-mapping>
